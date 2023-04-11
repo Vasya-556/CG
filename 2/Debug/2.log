@@ -1,0 +1,114 @@
+﻿  2.cpp
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(17,28): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(17,36): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(17,44): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(17,52): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(18,28): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(18,36): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(18,44): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(18,52): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(19,28): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(19,36): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(19,44): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(19,52): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(20,28): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(20,36): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(20,44): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(20,52): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(22,28): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(22,36): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(22,44): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(22,52): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(23,25): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(23,31): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(23,39): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(23,47): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(24,25): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(24,31): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(24,39): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(24,47): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(33,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(33,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(33,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(33,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(34,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(34,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(34,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(34,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(35,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(35,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(35,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(35,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(36,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(36,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(36,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(36,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(38,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(38,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(38,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(38,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(39,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(39,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(39,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(39,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(40,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(40,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(40,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(40,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(127,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(127,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(127,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(127,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(161,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(161,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(161,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(161,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(195,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(195,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(195,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(195,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(229,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(229,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(229,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(229,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(265,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(265,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(265,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(265,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(299,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(299,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(299,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(299,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(333,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(333,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(333,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(333,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(419,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(419,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(419,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(419,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(453,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(453,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(453,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(453,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(487,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(487,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(487,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(487,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(521,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(521,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(521,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(521,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(557,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(557,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(557,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(557,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(591,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(591,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(591,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(591,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(625,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(625,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(625,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(625,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  2.vcxproj -> C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\Debug\2.exe

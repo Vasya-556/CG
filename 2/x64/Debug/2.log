@@ -1,0 +1,4 @@
+﻿  2.cpp
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(23,27): error C2664: 'void initgraph(int *,int *,char *)': cannot convert argument 3 from 'const char [1]' to 'char *'
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\2\2\2.cpp(23,25): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\Graphics Header File Setup for CodeBlocks\graphics.h(267,6): message : see declaration of 'initgraph'
