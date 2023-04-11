@@ -1,0 +1,10 @@
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\Lab_4_graph\Lab_4_graph\bin\Debug\Lab_4_graph.exe.config
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\Lab_4_graph\Lab_4_graph\bin\Debug\Lab_4_graph.exe
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\Lab_4_graph\Lab_4_graph\bin\Debug\Lab_4_graph.pdb
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\Lab_4_graph\Lab_4_graph\obj\Debug\Lab_4_graph.csproj.AssemblyReference.cache
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\Lab_4_graph\Lab_4_graph\obj\Debug\Lab_4_graph.Form1.resources
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\Lab_4_graph\Lab_4_graph\obj\Debug\Lab_4_graph.Properties.Resources.resources
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\Lab_4_graph\Lab_4_graph\obj\Debug\Lab_4_graph.csproj.GenerateResource.cache
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\Lab_4_graph\Lab_4_graph\obj\Debug\Lab_4_graph.csproj.CoreCompileInputs.cache
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\Lab_4_graph\Lab_4_graph\obj\Debug\Lab_4_graph.exe
+C:\Users\vkobr\OneDrive\Робочий стіл\КГ\Lab_4_graph\Lab_4_graph\obj\Debug\Lab_4_graph.pdb
